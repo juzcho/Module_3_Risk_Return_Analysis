@@ -34,8 +34,10 @@ On the terminal, under the conda dev environment, type the code below:
 
 If you have Jupyter Lab already installed, to open your Notebook, please type this while on your conda dev environment:
 
-`jupyter lab`
-    
+`jupyter lab` 
+
+Once you click ENTER, this will open on your default browser.
+
 ----
 
 ![Open Jupyter Lab](./images/open_jupyter_lab.jpeg)
