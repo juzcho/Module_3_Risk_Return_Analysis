@@ -1,6 +1,6 @@
-# **Module 4 Challenge: Risk Return Analysis**
+# **Risk Return Analysis**
 
-## Risk Return Analysis
+## Overview
 
 The Risk Return Analysis project is about understanding the different stock prices and how each compares to the market which is S&P 500. It analyzes how volatile each stock is compared to the market, as well as how much risk and return it might yield for investing in such stock. It gives us a visual analysis for better understanding of each stock.
 
